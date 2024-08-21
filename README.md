@@ -1,1 +1,2 @@
 # CV
+> Refer to LICENSE
