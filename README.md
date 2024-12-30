@@ -1,2 +1,3 @@
 # CV
-> Refer to LICENSE
+> Refer to LICENSE for legal information
+[CV/Resume](file://CV.pdf)
